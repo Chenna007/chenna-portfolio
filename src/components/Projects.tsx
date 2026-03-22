@@ -19,7 +19,7 @@ const projects = [
     githubUrl: "#", // Replace with actual URL if available
     caseStudyUrl: "",
     badge: "Quantum-Safe",
-    image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1400&q=80",
+    image: "/quantom.png",
     icon: <Shield className="text-emerald-400" size={32} />
   },
   { 
@@ -31,7 +31,7 @@ const projects = [
     githubUrl: "https://github.com/yourname/teamup-ai", 
     caseStudyUrl: "", 
     badge: "AI-Powered",
-    image: "teamup.png",
+    image: "/teamup.png",
     icon: <Users className="text-blue-400" size={32} />
   },
   { 
@@ -43,7 +43,7 @@ const projects = [
     githubUrl: "https://github.com/yourname/ai-calling-agent", 
     caseStudyUrl: "", 
     badge: "Automation",
-    image: "real estate.png",
+    image: "/real estate.png",
     icon: <Cpu className="text-purple-400" size={32} />
   },
   { 
@@ -55,7 +55,7 @@ const projects = [
     githubUrl: "https://github.com/yourname/ecommerce-platform", 
     caseStudyUrl: "", 
     badge: "Full Stack",
-    image: "buyme.png",
+    image: "/buyme.png",
     icon: <ShoppingCart className="text-emerald-400" size={32} />
   },
   { 
@@ -67,7 +67,7 @@ const projects = [
     githubUrl: "https://github.com/yourname/letsfitclub", 
     caseStudyUrl: "", 
     badge: "Marketplace",
-    image: "findmycoach.png",
+    image: "/findmycoach.png",
     icon: <Globe className="text-blue-400" size={32} />
   }
 ];
